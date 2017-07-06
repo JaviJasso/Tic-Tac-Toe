@@ -1,0 +1,17 @@
+#button{
+    display: block;
+    padding: 10px 15px;
+    background: #ccccff;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
